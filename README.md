@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, Blockchain Technologies.
 - 🌱 I’m currently learning Solidity, Web3
 - 💞️ I’m looking to collaborate on Blockchain projects.
-- 📫 How to reach me on mobolajihabib@gmail.com
+- 📫 You can reach me on mobolajihabib@gmail.com
 
 <!---
 Mobolajihabib/Mobolajihabib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
